@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node-global-key-listener": "^0.3.0"
+  }
+}
